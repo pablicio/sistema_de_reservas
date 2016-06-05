@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+    <tocitem text="Sistema de Reservas">
+       <tocitem text="Sistema de Reservas" target="appwithhelp.sadrzaj"/>
+       <tocitem text="Mais Sobre o Sistema de Reservas" target="appwithhelp.pregled"/>
+       <tocitem text="Instalação" target="appwithhelp.install"/>
+       <tocitem text="Usando o Programa" target="appwithhelp.koristenje"/>
+   </tocitem>
+</toc>
